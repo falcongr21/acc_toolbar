@@ -100,5 +100,38 @@
       "btn_cursor_black": "big black<br>cursor",
       "btn_zoom_in": "zoom<br>screen"
     }
+    "el-GR": {
+    "btn_open": "μενού προσβασιμότητας",
+    "btn_close": "κλείσιμο",
+    "keyboard_root": "περιήγηση πληκτρολογίου",
+    "disable_animattions": "μπλοκ κίνησης",
+    "access_declaration": "δηλωση προσβασιμότητας",
+    "debug_contacts": "αναφορά προβλήματος προσβασιμότητας",
+    "reset_all_settings": "επαναφορά ρυθμίσεων",
+    "image_without_alt": "εικόνα χωρίς κείμενο",
+    "contrast_block": {
+      "header": "Αντίθεση χρώματος",
+      "btn_monochrome": "μονόχρωμη<br>απεικόνιση",
+      "btn_bright": "φωτεινή<br>αντίθεση",
+      "btn_invert": "αναστροφή<br>αντίθεσης"
+    },
+    "text_block": {
+      "header": "μέγεθος κειμένου",
+      "btn_font_up": "αύξηση<br>κειμένου",
+      "btn_font_down": "μείωση<br>κειμένου",
+      "btn_font_readable": "αναγνώσιμο<br>κείμενο"
+    },
+    "content_block": {
+      "header": "Επισήμανση περιεχομένου",
+      "btn_underline_links": "υπογράμμιση<br>συνδέσμων",
+      "btn_underline_headers": "υπογράμμιση<br>επικεφαλίδων",
+      "btn_images_titles": "τίτλοι<br>εικόνων"
+    },
+    "zoom_block": {
+      "header": "zoom in",
+      "btn_cursor_white": "μεγάλος λευκός<br>δείκτης",
+      "btn_cursor_black": "μεγάλος μαύρος<br>δείκτης",
+      "btn_zoom_in": "οθόνη<br>zoom"
+    }
   }
 }
